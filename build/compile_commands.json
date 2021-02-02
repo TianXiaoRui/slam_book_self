@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tr/Downloads/slambook/build",
+  "command": "/usr/bin/c++    -isystem /usr/local/include -isystem /usr/local/include/opencv  -std=c++11 -g   -o CMakeFiles/imageBasics.dir/imageBasics.cpp.o -c /home/tr/Downloads/slambook/ch5/imageBasics/imageBasics.cpp",
+  "file": "/home/tr/Downloads/slambook/ch5/imageBasics/imageBasics.cpp"
+}
+]

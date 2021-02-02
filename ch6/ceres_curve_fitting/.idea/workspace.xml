@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="ceres_curve_fitting" targetName="curve_fitting" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a41bf1d8-77b0-407a-b89e-9876bb7d5449" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3rdparty/DBow3.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../3rdparty/DBow3.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3rdparty/Pangolin.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../3rdparty/Pangolin.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3rdparty/Sophus.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../3rdparty/Sophus.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3rdparty/ceres-solver.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../3rdparty/ceres-solver.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3rdparty/g2o.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../3rdparty/g2o.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/SnavelyReprojectionError.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/SnavelyReprojectionError.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/ceresBundle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/ceresBundle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/BALProblem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/BALProblem.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/BALProblem.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/BALProblem.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/BundleParams.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/BundleParams.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/flags/command_args.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/flags/command_args.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/flags/command_args.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/flags/command_args.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/projection.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/projection.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/tools/random.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/tools/random.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/tools/rotation.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/common/tools/rotation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/ceres_custombundle/data/problem-16-22106-pre.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/ceres_custombundle/data/problem-16-22106-pre.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/autodiff.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/autodiff.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/eigen.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/eigen.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/fixed_array.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/fixed_array.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/fpclassify.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/fpclassify.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/jet.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/jet.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/macros.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/macros.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/manual_constructor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/manual_constructor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/variadic_evaluate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/ceres/variadic_evaluate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindBLAS.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindBLAS.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindCSparse.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindCSparse.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindCholmod.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindCholmod.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindEigen3.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindEigen3.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindG2O.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindLAPACK.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/cmake_modules/FindLAPACK.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/BALProblem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/BALProblem.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/BALProblem.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/BALProblem.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/BundleParams.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/BundleParams.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/flags/command_args.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/flags/command_args.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/flags/command_args.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/flags/command_args.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/projection.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/projection.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/tools/random.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/tools/random.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/tools/rotation.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/common/tools/rotation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/data/problem-16-22106-pre.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/data/problem-16-22106-pre.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/final.ply" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/final.ply" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/g2o_bal_class.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/g2o_bal_class.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/g2o_bundle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/g2o_bundle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch10/g2o_custombundle/initial.ply" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch10/g2o_custombundle/initial.ply" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/cmake_modules/FindCholmod.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/cmake_modules/FindCholmod.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/cmake_modules/FindG2O.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/pose_graph_g2o_SE3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/pose_graph_g2o_SE3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/pose_graph_g2o_lie_algebra.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/pose_graph_g2o_lie_algebra.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/pose_graph_gtsam.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/pose_graph_gtsam.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/result.g2o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/result.g2o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/result_gtsam.g2o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/result_gtsam.g2o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/result_lie.g2o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/result_lie.g2o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch11/sphere.g2o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch11/sphere.g2o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/cmake_modules/FindDBoW3.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/cmake_modules/FindDBoW3.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/data/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/data/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/feature_training.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/feature_training.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/gen_vocab_large.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/gen_vocab_large.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/loop_closure.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/loop_closure.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/vocab_larger.yml.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/vocab_larger.yml.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch12/vocabulary.yml.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch12/vocabulary.yml.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/color/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/1.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/1.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/2.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/2.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/3.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/3.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/4.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/4.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/5.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/depth/5.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/pose.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/data/pose.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/map.pcd" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/map.pcd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/octomap.bt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/octomap.bt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/octomap_mapping.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/octomap_mapping.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_RGBD/pointcloud_mapping.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_RGBD/pointcloud_mapping.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_monocular/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_monocular/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch13/dense_monocular/dense_mapping.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch13/dense_monocular/dense_mapping.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch2/helloSLAM.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch2/helloSLAM.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch2/libHelloSLAM.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch2/libHelloSLAM.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch2/libHelloSLAM.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch2/libHelloSLAM.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch2/useHello.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch2/useHello.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch3/useEigen/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch3/useEigen/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch3/useEigen/eigenMatrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch3/useEigen/eigenMatrix.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch3/useGeometry/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch3/useGeometry/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch3/useGeometry/eigenGeometry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch3/useGeometry/eigenGeometry.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch3/visualizeGeometry/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch3/visualizeGeometry/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch3/visualizeGeometry/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch3/visualizeGeometry/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch3/visualizeGeometry/visualizeGeometry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch3/visualizeGeometry/visualizeGeometry.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch4/useSophus/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch4/useSophus/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch4/useSophus/useSophus.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch4/useSophus/useSophus.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/imageBasics/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/imageBasics/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/imageBasics/imageBasics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/imageBasics/imageBasics.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/imageBasics/ubuntu.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/imageBasics/ubuntu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/color/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/color/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/color/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/color/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/color/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/color/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/color/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/color/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/color/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/color/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/depth/1.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/depth/1.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/depth/2.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/depth/2.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/depth/3.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/depth/3.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/depth/4.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/depth/4.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/depth/5.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/depth/5.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/joinMap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/joinMap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch5/joinMap/pose.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch5/joinMap/pose.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake_modules/CeresConfig.cmake.in" beforeDir="false" afterPath="$PROJECT_DIR$/cmake_modules/CeresConfig.cmake.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g2o_curve_fitting/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../g2o_curve_fitting/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g2o_curve_fitting/cmake_modules/FindG2O.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../g2o_curve_fitting/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g2o_curve_fitting/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../g2o_curve_fitting/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/1_depth.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/1_depth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/2_depth.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/2_depth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/cmake_modules/FindCSparse.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/cmake_modules/FindCSparse.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/cmake_modules/FindG2O.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/extra.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/extra.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/extra.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/extra.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/feature_extraction.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/feature_extraction.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/pose_estimation_2d2d.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_2d2d.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch7/triangulation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch7/triangulation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch8/LKFlow/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch8/LKFlow/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch8/LKFlow/useLK.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch8/LKFlow/useLK.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch8/data/data.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch8/data/data.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch8/directMethod/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch8/directMethod/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch8/directMethod/cmake_modules/FindG2O.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch8/directMethod/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch8/directMethod/direct_semidense.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch8/directMethod/direct_semidense.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch8/directMethod/direct_sparse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch8/directMethod/direct_sparse.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch8/directMethod/error.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch8/directMethod/error.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch8/directMethod/error_LM.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch8/directMethod/error_LM.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/cmake_modules/FindCSparse.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/cmake_modules/FindCSparse.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/cmake_modules/FindG2O.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/config/default.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/config/default.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/include/myslam/camera.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/include/myslam/camera.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/include/myslam/common_include.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/include/myslam/common_include.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/include/myslam/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/include/myslam/config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/include/myslam/frame.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/include/myslam/frame.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/include/myslam/map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/include/myslam/map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/include/myslam/mappoint.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/include/myslam/mappoint.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/include/myslam/visual_odometry.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/include/myslam/visual_odometry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/lib/liblibmyslam.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/lib/liblibmyslam.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/src/camera.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/src/camera.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/src/config.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/src/config.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/src/frame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/src/frame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/src/map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/src/map.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/src/mappoint.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/src/mappoint.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.1/test/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.1/test/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/cmake_modules/FindCSparse.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/cmake_modules/FindCSparse.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/cmake_modules/FindG2O.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/config/default.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/config/default.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/include/myslam/camera.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/include/myslam/camera.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/include/myslam/common_include.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/include/myslam/common_include.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/include/myslam/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/include/myslam/config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/include/myslam/frame.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/include/myslam/frame.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/include/myslam/map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/include/myslam/map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/include/myslam/mappoint.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/include/myslam/mappoint.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/include/myslam/visual_odometry.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/include/myslam/visual_odometry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/lib/liblibmyslam.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/lib/liblibmyslam.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/src/camera.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/src/camera.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/src/config.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/src/config.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/src/frame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/src/frame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/src/map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/src/map.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/src/mappoint.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/src/mappoint.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/src/visual_odometry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/src/visual_odometry.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/test/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/test/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.2/test/run_vo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.2/test/run_vo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/cmake_modules/FindCSparse.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/cmake_modules/FindCSparse.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/cmake_modules/FindG2O.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/config/default.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/config/default.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/include/myslam/camera.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/include/myslam/camera.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/include/myslam/common_include.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/include/myslam/common_include.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/include/myslam/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/include/myslam/config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/include/myslam/frame.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/include/myslam/frame.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/include/myslam/g2o_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/include/myslam/g2o_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/include/myslam/map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/include/myslam/map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/include/myslam/mappoint.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/include/myslam/mappoint.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/include/myslam/visual_odometry.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/include/myslam/visual_odometry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/lib/liblibmyslam.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/lib/liblibmyslam.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/src/camera.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/src/camera.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/src/config.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/src/config.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/src/frame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/src/frame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/src/g2o_types.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/src/g2o_types.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/src/map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/src/map.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/src/mappoint.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/src/mappoint.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/src/visual_odometry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/src/visual_odometry.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/test/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/test/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.3/test/run_vo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.3/test/run_vo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/cmake_modules/FindCSparse.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/cmake_modules/FindCSparse.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/cmake_modules/FindG2O.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/config/default.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/config/default.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/include/myslam/camera.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/include/myslam/camera.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/include/myslam/common_include.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/include/myslam/common_include.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/include/myslam/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/include/myslam/config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/include/myslam/frame.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/include/myslam/frame.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/include/myslam/g2o_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/include/myslam/g2o_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/include/myslam/map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/include/myslam/map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/include/myslam/mappoint.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/include/myslam/mappoint.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/include/myslam/visual_odometry.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/include/myslam/visual_odometry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/lib/liblibmyslam.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/lib/liblibmyslam.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/src/camera.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/src/camera.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/src/config.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/src/config.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/src/frame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/src/frame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/src/g2o_types.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/src/g2o_types.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/src/map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/src/map.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/src/mappoint.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/src/mappoint.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/src/visual_odometry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/src/visual_odometry.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/test/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/test/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/0.4/test/run_vo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../project/0.4/test/run_vo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tools/associate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../tools/associate.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-468403043">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="1" />
+          <entry key="h" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="63" column="37" lean-forward="true" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#256#268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/include/ceres/solver.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="400" column="21" selection-start-line="400" selection-start-column="21" selection-end-line="400" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="201" />
+    <option name="y" value="60" />
+    <option name="width" value="1855" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ceres_curve_fitting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ceres_curve_fitting" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../g2o_curve_fitting" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.curve_fitting">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="curve_fitting" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ceres_curve_fitting" TARGET_NAME="curve_fitting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ceres_curve_fitting" RUN_TARGET_NAME="curve_fitting">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.curve_fitting" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a41bf1d8-77b0-407a-b89e-9876bb7d5449" name="Default Changelist" comment="" />
+      <created>1606381886206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606381886206</updated>
+      <workItem from="1606381887398" duration="624000" />
+      <workItem from="1606651005297" duration="2484000" />
+      <workItem from="1607429862677" duration="15000" />
+      <workItem from="1611732233947" duration="2353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="81" y="-5" width="1839" height="1085" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18788558" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.269188" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32975295" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/include/ceres/solver.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="400" column="21" selection-start-line="400" selection-start-column="21" selection-end-line="400" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="63" column="37" lean-forward="true" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#256#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+/home/tr/Downloads/slambook/ch7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tr/Downloads/slambook/ch7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tr/Downloads/slambook/ch7/cmake-build-debug/CMakeFiles/pose_estimation_3d3d.dir
+/home/tr/Downloads/slambook/ch7/cmake-build-debug/CMakeFiles/pose_estimation_3d2d.dir
+/home/tr/Downloads/slambook/ch7/cmake-build-debug/CMakeFiles/pose_estimation_2d2d.dir
+/home/tr/Downloads/slambook/ch7/cmake-build-debug/CMakeFiles/pose_3d3d_point.dir
+/home/tr/Downloads/slambook/ch7/cmake-build-debug/CMakeFiles/feature_extraction.dir
+/home/tr/Downloads/slambook/ch7/cmake-build-debug/CMakeFiles/triangulation.dir

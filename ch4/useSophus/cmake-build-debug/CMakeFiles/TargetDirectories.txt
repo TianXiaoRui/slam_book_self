@@ -1,0 +1,3 @@
+/home/tr/Downloads/slambook/ch4/useSophus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tr/Downloads/slambook/ch4/useSophus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tr/Downloads/slambook/ch4/useSophus/cmake-build-debug/CMakeFiles/useSophus.dir

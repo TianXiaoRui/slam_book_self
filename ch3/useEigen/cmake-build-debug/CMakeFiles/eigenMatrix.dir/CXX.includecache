@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tr/Downloads/slambook/ch3/useEigen/eigenMatrix.cpp
+iostream
+-
+ctime
+-
+Eigen/Core
+-
+Eigen/Dense
+-
+Eigen/StdVector
+-
+Eigen/Core
+-
+Eigen/Sparse
+-
+
